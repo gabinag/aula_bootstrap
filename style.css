@@ -2,14 +2,32 @@ body {
     font: 20px Arial, serif;
 }
 
-.quem-somos {
-    background-color: rgb(160, 161, 216);
-    padding-top: 30px;
-    padding-bottom: 50px;
+section {
     color: #fff;
 }
 
-.quem-somos h4 {
+.quem-somos {
+    background-color: rgb(160, 161, 216);
+}
+
+.padding {
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.title {
+    margin-bottom: 50px;
+}
+
+.subtitle {
     font-size: 18px;
-    margin-top: 20px;
+    margin-top: 30px;
+}
+
+.parceiros {
+    background-color: rgb(29, 26, 48);
+}
+
+.row img {
+    width: 75%;
 }
